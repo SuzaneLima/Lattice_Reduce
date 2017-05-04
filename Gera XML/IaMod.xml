@@ -1,0 +1,7283 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<context>
+	<object name="doc1">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc2">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc3">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc4">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc5">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc6">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc7">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc8">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc9">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc10">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc11">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc12">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc13">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc14">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc15">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc16">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc17">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc18">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc19">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc20">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc21">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc22">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc23">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc24">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc25">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc26">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc27">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc28">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc29">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc30">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc31">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc32">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc33">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc34">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc35">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc36">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+	<object name="doc37">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc38">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc39">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>0</membership>
+		</attribute>
+	</object>
+	<object name="doc40">
+		<attribute name="fuzzy_sets">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="computer">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="knowledge_data">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="university">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="triple">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="triple_gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="degree">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="membership">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="references">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="formal_context">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="set_attributes">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="number">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="systems">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="gmi">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="terms">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="workbench">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="set">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="low">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="real">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="document">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="international">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="intensional">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="hotho">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="objects_set">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="results">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based_fuzzy">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="ganter">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="conceptualization">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="relationships_objects">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="paper">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="documents">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="department">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="proposed">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="section">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="knowledge">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="algorithm">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="represent">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="data">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="applied">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="sets">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="obtain">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="approach">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="presented">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="wille">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="model">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="wille_formal">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ontologies_knowledge">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="fuzzy">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="ieee">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="research">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="values">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="introduction">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="staab_ontology">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="maedche">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="stumme">
+			<membership>0</membership>
+		</attribute>
+		<attribute name="applications">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="based">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="information">
+			<membership>1</membership>
+		</attribute>
+		<attribute name="degrees">
+			<membership>1</membership>
+		</attribute>
+	</object>
+</context>
